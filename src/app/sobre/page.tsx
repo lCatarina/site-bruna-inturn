@@ -14,20 +14,20 @@ export default function Sobre() {
         >
           <h2 className="text-2xl font-bold mb-5">Me chamo Bruna Inturn</h2>
           <p className="text-sm leading-relaxed">
-            Sou estudante de Terapia Ocupacional, apaixonada por cuidar e promover
-            qualidade de vida através de atendimentos que respeitam a individualidade de
-            cada pessoa.
+            Sou estudante de Terapia Ocupacional, apaixonada por cuidar e
+            promover qualidade de vida através de atendimentos que respeitam a
+            individualidade de cada pessoa.
           </p>
           <br />
           <p className="text-sm leading-relaxed">
-            Acredito que cada fase da vida tem suas próprias necessidades, por isso busco
-            atuar tanto no desenvolvimento infantil quanto no cuidado com idosos, sempre
-            com atenção, empatia e dedicação.
+            Acredito que cada fase da vida tem suas próprias necessidades, por
+            isso busco atuar tanto no desenvolvimento infantil quanto no cuidado
+            com idosos, sempre com atenção, empatia e dedicação.
           </p>
           <br />
           <p className="text-sm leading-relaxed">
-            Estou em constante aprendizado, buscando evoluir profissionalmente para
-            oferecer atendimentos cada vez mais qualificados e humanizados.
+            Estou em constante aprendizado, buscando evoluir profissionalmente
+            para oferecer atendimentos cada vez mais qualificados e humanizados.
           </p>
         </div>
 
