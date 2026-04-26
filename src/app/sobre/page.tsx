@@ -33,14 +33,14 @@ export default function Sobre() {
 
         {/* Imagens */}
         <div className="flex flex-col gap-5">
-          <div className="relative w-64 h-52 rounded-2xl overflow-hidden">
+          {/* <div className="relative w-64 h-52 rounded-2xl overflow-hidden">
             <Image
               src="/imagens/sobre_1.png"
               alt="Bruna Inturn - foto 1"
               fill
               className="object-cover"
-            />
-          </div>
+            
+          </div>/>*/}
           <div className="relative w-64 h-52 rounded-2xl overflow-hidden">
             <Image
               src="/imagens/sobre_2.png"
