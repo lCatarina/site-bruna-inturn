@@ -10,8 +10,8 @@ export default function Servicos() {
           Como posso te ajudar
         </h2>
         <p className="text-gray-600 mb-12 max-w-xl text-sm leading-relaxed">
-          Atendimentos voltados ao desenvolvimento, autonomia e qualidade de vida em
-          diferentes fases da vida.
+          Atendimentos voltados ao desenvolvimento, autonomia e qualidade de
+          vida em diferentes fases da vida.
         </p>
 
         <div className="flex flex-col md:flex-row gap-6 max-w-3xl w-full justify-center">
@@ -21,8 +21,9 @@ export default function Servicos() {
           >
             <h3 className="text-xl font-bold mb-3">Atendimento Infantil</h3>
             <p className="text-sm leading-relaxed">
-              Acompanhamento voltado ao desenvolvimento da criança, estimulando habilidades
-              motoras, cognitivas e autonomia no dia a dia, sempre respeitando seu tempo.
+              Acompanhamento voltado ao desenvolvimento da criança, estimulando
+              habilidades motoras, cognitivas e autonomia no dia a dia, sempre
+              respeitando seu tempo.
             </p>
           </div>
 
@@ -32,8 +33,8 @@ export default function Servicos() {
           >
             <h3 className="text-xl font-bold mb-3">Atendimento para Idosos</h3>
             <p className="text-sm leading-relaxed">
-              Atendimento focado na qualidade de vida e independência, auxiliando o idoso a
-              manter sua autonomia nas atividades diárias.
+              Atendimento focado na qualidade de vida e independência,
+              auxiliando o idoso a manter sua autonomia nas atividades diárias.
             </p>
           </div>
         </div>
